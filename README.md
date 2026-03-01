@@ -26,8 +26,10 @@ pip install -r requirements.txt
 
 Crie um arquivo chamado .env na raiz do projeto com base no .env.example:
 
+```
 KID=seu_kid_aqui
 TOKEN=seu_token_aqui
+```
 
 As credenciais (KID e TOKEN) que foram fornecidas via e-mail.
 
